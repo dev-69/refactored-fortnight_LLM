@@ -1,0 +1,2 @@
+source "/home/hedwig69/Desktop/LLM From Scratch/.venv/bin/activate"
+uv run jupyter lab
